@@ -21,7 +21,7 @@ public class Member {
         this.id = id;
     }
 
-    public void getName() {
+    public String getName() {
         return name;
     }
 
